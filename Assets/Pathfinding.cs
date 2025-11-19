@@ -13,7 +13,7 @@ public class Pathfinding : MonoBehaviour
     private GridManager gridManager;
     public Vector2Int startCordsInput;
     public Vector2Int targetCordsInput;
-    public float searchDelay;
+    public float searchDelay; 
     private void Awake()
     {
         gridManager = FindFirstObjectByType<GridManager>();
@@ -26,7 +26,7 @@ public class Pathfinding : MonoBehaviour
     
     public IEnumerator FindPath()
     {
-        var stopwatch = System.Diagnostics.Stopwatch.StartNew();
+        //var stopwatch = System.Diagnostics.Stopwatch.StartNew();
         foreach(GameObject tile in gridManager.grid.Values)
         {
             if(tile.GetComponent<Tile>().isWalkable)
@@ -77,7 +77,7 @@ public class Pathfinding : MonoBehaviour
                 tileToSearch.Add(neighbour);
 
                 gridManager.grid[neighbour].GetComponentInChildren<Renderer>().material.color = Color.yellow;
-                // yield return new WaitForSeconds(searchDelay);
+                yield return new WaitForSeconds(searchDelay);
             }
         }
 
@@ -87,9 +87,8 @@ public class Pathfinding : MonoBehaviour
             StartCoroutine(FindPath());
         }
         
-        stopwatch.Stop();
-        Debug.Log($"Pathfinding completed in {stopwatch.ElapsedMilliseconds} ms");
-        return null;
+        //stopwatch.Stop();
+        //Debug.Log($"Pathfinding completed in {stopwatch.ElapsedMilliseconds} ms");
     }
     
     private List<Vector2Int> GetNeighbours(Vector2Int tileCords)

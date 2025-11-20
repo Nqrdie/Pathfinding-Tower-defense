@@ -8,6 +8,10 @@ public class GridManager : MonoBehaviour
     public GameObject tileHolder;
     public Vector2Int gridSize;
     public int unityGridSize;
+
+
+    // TODO: Create a grid around already placed tiles and adding the placed tiles to the grid on the correct location
+    // already placed tiles include: Path, Towers, Enemy spawn, Player core
     
     public Dictionary<Vector2Int, GameObject> grid = new Dictionary<Vector2Int, GameObject>();
     

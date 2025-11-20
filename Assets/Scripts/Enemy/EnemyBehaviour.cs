@@ -2,8 +2,21 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Pathfinding : MonoBehaviour
+public class EnemyBehaviour : MonoBehaviour
 {
+    private enum States {
+        Idle,
+        Walking,
+        Attacking,
+        Dead
+    }
+
+    private Animator animator;
+    private States currentState;
+    [SerializeField] private float moveSpeed;
+    [SerializeField] private float rotationSpeed;
+    private Rigidbody rb;
+
     public List<Vector2Int> tileToSearch = new List<Vector2Int>();
     public List<Vector2Int> searchedTiles = new List<Vector2Int>();
     public List<Vector2Int> path = new List<Vector2Int>();
@@ -13,28 +26,59 @@ public class Pathfinding : MonoBehaviour
     private GridManager gridManager;
     public Vector2Int startCordsInput;
     public Vector2Int targetCordsInput;
-    public float searchDelay; 
+    public float searchDelay;
+
     private void Awake()
     {
         gridManager = FindFirstObjectByType<GridManager>();
     }
-    
+
+    void Start()
+    {
+        animator = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody>();
+        StartCoroutine(FindPath());
+    }
+
+    void Update()
+    {
+        switch (currentState)
+        {
+            case States.Idle:
+                animator.SetInteger("State", 0);
+                break;
+            case States.Walking:
+                animator.SetInteger("State", 1);
+                break;
+            case States.Attacking:
+                animator.SetInteger("State", 2);
+                break;
+            case States.Dead:
+                animator.SetInteger("State", 3);
+                break;
+            default:
+                currentState = States.Idle;
+                break;
+        }
+    }
+
+    #region Pathfinding
     public void StartPathfinding()
     {
         StartCoroutine(FindPath());
     }
-    
+
     public IEnumerator FindPath()
     {
-        //var stopwatch = System.Diagnostics.Stopwatch.StartNew();
-        foreach(GameObject tile in gridManager.grid.Values)
+        var stopwatch = System.Diagnostics.Stopwatch.StartNew();
+        foreach (GameObject tile in gridManager.grid.Values)
         {
-            if(tile.GetComponent<Tile>().isWalkable)
+            if (tile.GetComponent<Tile>().isWalkable)
                 tile.GetComponentInChildren<Renderer>().material.color = Color.grey;
             else
                 tile.GetComponentInChildren<Renderer>().material.color = Color.black;
         }
-        
+
         startCords = startCordsInput;
         targetCords = targetCordsInput;
         pathSuccess = false;
@@ -50,7 +94,7 @@ public class Pathfinding : MonoBehaviour
             Vector2Int currentTile = tileToSearch[0];
             tileToSearch.RemoveAt(0);
             searchedTiles.Add(currentTile);
-            
+
             if (currentTile == targetCords)
             {
                 pathSuccess = true;
@@ -65,14 +109,14 @@ public class Pathfinding : MonoBehaviour
                     continue;
 
                 Tile neighbourTile = gridManager.grid[neighbour].GetComponent<Tile>();
-                
+
                 if (!neighbourTile.isWalkable)
                 {
                     neighbourTile.GetComponentInChildren<Renderer>().material.color = Color.red;
                     searchedTiles.Add(neighbour);
                     continue;
                 }
-                
+
                 neighbourTile.connection = currentTile;
                 tileToSearch.Add(neighbour);
 
@@ -86,11 +130,11 @@ public class Pathfinding : MonoBehaviour
             Debug.LogWarning("No path found!");
             StartCoroutine(FindPath());
         }
-        
-        //stopwatch.Stop();
-        //Debug.Log($"Pathfinding completed in {stopwatch.ElapsedMilliseconds} ms");
+
+        stopwatch.Stop();
+        Debug.Log($"Pathfinding completed in {stopwatch.ElapsedMilliseconds} ms");
     }
-    
+
     private List<Vector2Int> GetNeighbours(Vector2Int tileCords)
     {
         List<Vector2Int> neighbours = new List<Vector2Int>();
@@ -112,15 +156,15 @@ public class Pathfinding : MonoBehaviour
 
             if (!gridManager.grid.ContainsKey(neighbourCords))
                 continue;
-            
-            if (direction.x != 0 && direction.y != 0) 
+
+            if (direction.x != 0 && direction.y != 0)
             {
                 Vector2Int side1 = new Vector2Int(tileCords.x + direction.x, tileCords.y);
                 Vector2Int side2 = new Vector2Int(tileCords.x, tileCords.y + direction.y);
 
                 bool side1Blocked = !gridManager.grid.ContainsKey(side1) || !gridManager.grid[side1].GetComponent<Tile>().isWalkable;
                 bool side2Blocked = !gridManager.grid.ContainsKey(side2) || !gridManager.grid[side2].GetComponent<Tile>().isWalkable;
-                
+
                 if (side1Blocked && side2Blocked)
                     continue;
             }
@@ -130,7 +174,7 @@ public class Pathfinding : MonoBehaviour
 
         return neighbours;
     }
-    
+
     private void RetracePath(Vector2Int startCords, Vector2Int targetCords)
     {
         Vector2Int currentTile = targetCords;
@@ -143,16 +187,44 @@ public class Pathfinding : MonoBehaviour
             Vector2Int connection = currentTileComponent.connection;
 
             currentTile = connection;
-            
+
             path.Add(currentTile);
         }
 
         path.Reverse();
 
+        StartCoroutine(MoveAlongPath());
+    }
+
+    private IEnumerator MoveAlongPath()
+    {
+        Vector3 endPos = Vector3.zero;
         foreach (var tilePos in path)
         {
             GameObject tileObj = gridManager.grid[tilePos];
             tileObj.GetComponentInChildren<Renderer>().material.color = Color.green;
+
+            Vector3 target = tileObj.transform.position;
+            while (Vector3.Distance(rb.position, target) > 0.5f)
+            {
+                Vector3 targetPos = Vector3.MoveTowards(rb.position, target, moveSpeed * Time.deltaTime);
+                rb.MovePosition(targetPos);
+                currentState = States.Walking;
+
+                Vector3 direction = (target - rb.position).normalized;
+                direction.y = 0;
+                if (direction != Vector3.zero)
+                {
+                    Quaternion lookRot = Quaternion.LookRotation(direction);
+                    transform.rotation = Quaternion.Lerp(transform.rotation, lookRot, rotationSpeed * Time.deltaTime);
+                }
+
+                yield return new WaitForFixedUpdate();
+            }
+           endPos = target;
         }
+        rb.MovePosition(endPos);
+        currentState = States.Attacking; 
     }
+    #endregion
 }

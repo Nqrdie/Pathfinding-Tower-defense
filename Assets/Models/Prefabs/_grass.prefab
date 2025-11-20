@@ -82,9 +82,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cords: {x: 0, y: 0}
   connection: {x: 0, y: 0}
-  isWalkable: 1
+  isWalkable: 0
   selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  wallMesh: {fileID: -6032365043310741612, guid: 368dcd7e442b08a49a7c521234d8cf58, type: 3}
+  placableTower: {fileID: 0}
   label: {fileID: 0}
 --- !u!65 &-5207837229994632480
 BoxCollider:

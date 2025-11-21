@@ -6,9 +6,12 @@ public class TowerPlacing : MonoBehaviour
 {
     private GameObject[] towerPrefab;
     private bool isHoldingTower;
+    private bool isHoldingPath;
     private GameObject selected;
     private GameObject towerHover;
     [SerializeField] private GameObject selectedPrefab;
+    [SerializeField] private Mesh tileMesh;
+    [SerializeField] private Mesh pathMesh;
     [SerializeField] private GameObject[] coreTower;
     [SerializeField] private GameObject[] ballistaTower;
     [SerializeField] private GameObject[] cannonTower;
@@ -44,6 +47,12 @@ public class TowerPlacing : MonoBehaviour
         }
     }
 
+    public void SelectPath()
+    {
+        isHoldingPath = true;
+        isHoldingTower = false;
+    }
+
 
    public void TileHovered(GameObject tile)
    {
@@ -67,6 +76,13 @@ public class TowerPlacing : MonoBehaviour
             Instantiate(towerPrefab[1], tile.transform.position + Vector3.up * 0.2f, Quaternion.identity);
             isHoldingTower = false;
             Destroy(towerHover);
+        }
+
+        if (isHoldingPath)
+        {
+            tileScript.isWalkable = true;
+            tile.GetComponent<MeshFilter>().sharedMesh = pathMesh;
+            Debug.Log("Applied mesh to tile");
         }
     }
 

@@ -17,12 +17,12 @@ public class GridManager : MonoBehaviour
     
     private void Awake()
     {
-        CreateGrid();
+        //CreateGrid();
     }
     
     public void CreateGrid()
     {
-        DestroyTiles();
+        //DestroyTiles();
         
         if(tileHolder == null)
             tileHolder = new GameObject("TileHolder");

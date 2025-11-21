@@ -190,9 +190,6 @@ MonoBehaviour:
   cords: {x: 19, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &5899467
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -317,9 +314,6 @@ MonoBehaviour:
   cords: {x: 15, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &6575413
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -444,9 +438,6 @@ MonoBehaviour:
   cords: {x: 14, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &7889853
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -571,9 +562,6 @@ MonoBehaviour:
   cords: {x: 2, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &12892716
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -698,9 +686,6 @@ MonoBehaviour:
   cords: {x: 14, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &20102276
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -825,9 +810,6 @@ MonoBehaviour:
   cords: {x: 14, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &25475653
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -952,9 +934,6 @@ MonoBehaviour:
   cords: {x: 13, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &27585577
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1079,9 +1058,6 @@ MonoBehaviour:
   cords: {x: 17, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &35597209
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1206,9 +1182,6 @@ MonoBehaviour:
   cords: {x: 0, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &42305626
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1333,9 +1306,6 @@ MonoBehaviour:
   cords: {x: 17, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &44541759
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1460,9 +1430,6 @@ MonoBehaviour:
   cords: {x: 17, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &58121441
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1587,9 +1554,6 @@ MonoBehaviour:
   cords: {x: 12, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &61507149
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1714,9 +1678,6 @@ MonoBehaviour:
   cords: {x: 2, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &70248827
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1841,9 +1802,6 @@ MonoBehaviour:
   cords: {x: 11, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &85104582
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1968,9 +1926,6 @@ MonoBehaviour:
   cords: {x: 8, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &85668306
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2095,9 +2050,6 @@ MonoBehaviour:
   cords: {x: 13, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &93208243
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2222,9 +2174,6 @@ MonoBehaviour:
   cords: {x: 0, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &103757957
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2349,9 +2298,6 @@ MonoBehaviour:
   cords: {x: 1, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &112732106
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2476,9 +2422,6 @@ MonoBehaviour:
   cords: {x: 8, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &122501889
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2603,9 +2546,6 @@ MonoBehaviour:
   cords: {x: 11, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &122691437
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2730,9 +2670,6 @@ MonoBehaviour:
   cords: {x: 2, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &135478767
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2857,9 +2794,6 @@ MonoBehaviour:
   cords: {x: 7, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &150959282
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2984,9 +2918,6 @@ MonoBehaviour:
   cords: {x: 14, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &157649311
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3102,6 +3033,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
+  tileMesh: {fileID: 1403969690596524265, guid: 8f46688151281484e80761b1eeb794f8, type: 3}
+  pathMesh: {fileID: -4855243574250553854, guid: c1cd67ec403e5d542a4a18df78037a60, type: 3}
   coreTower:
   - {fileID: 6043057151578055805, guid: 58218c8ce5519ff4fb905ae309c5e41f, type: 3}
   - {fileID: 2035804140338095637, guid: e48cdd8907c19bd4c9cb176b31f64993, type: 3}
@@ -3185,9 +3118,6 @@ MonoBehaviour:
   cords: {x: 13, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &159936927
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3312,9 +3242,6 @@ MonoBehaviour:
   cords: {x: 12, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &160055128
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3439,9 +3366,6 @@ MonoBehaviour:
   cords: {x: 12, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &161307984
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3566,9 +3490,6 @@ MonoBehaviour:
   cords: {x: 3, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &166028981
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3693,9 +3614,6 @@ MonoBehaviour:
   cords: {x: 1, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &166321500
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3820,9 +3738,6 @@ MonoBehaviour:
   cords: {x: 10, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &168750554
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3947,9 +3862,6 @@ MonoBehaviour:
   cords: {x: 6, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &170464189
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4074,9 +3986,6 @@ MonoBehaviour:
   cords: {x: 4, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &172054611
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4201,9 +4110,6 @@ MonoBehaviour:
   cords: {x: 3, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &172466072
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4328,9 +4234,6 @@ MonoBehaviour:
   cords: {x: 18, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &176158368
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4455,9 +4358,6 @@ MonoBehaviour:
   cords: {x: 17, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &176792153
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4582,9 +4482,6 @@ MonoBehaviour:
   cords: {x: 7, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &179985912
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4709,9 +4606,6 @@ MonoBehaviour:
   cords: {x: 12, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &181186062
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4836,9 +4730,6 @@ MonoBehaviour:
   cords: {x: 11, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &192412754
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4963,9 +4854,6 @@ MonoBehaviour:
   cords: {x: 7, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &192503021
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5090,9 +4978,6 @@ MonoBehaviour:
   cords: {x: 13, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &207610315
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5217,9 +5102,6 @@ MonoBehaviour:
   cords: {x: 3, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &210209195
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5344,9 +5226,6 @@ MonoBehaviour:
   cords: {x: 17, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &210425042
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5471,9 +5350,6 @@ MonoBehaviour:
   cords: {x: 0, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &211463389
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5598,9 +5474,6 @@ MonoBehaviour:
   cords: {x: 16, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &212193913
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5725,9 +5598,6 @@ MonoBehaviour:
   cords: {x: 1, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &220964731
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5852,9 +5722,6 @@ MonoBehaviour:
   cords: {x: 5, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &230508295
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5979,9 +5846,6 @@ MonoBehaviour:
   cords: {x: 7, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &233216471
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6106,9 +5970,6 @@ MonoBehaviour:
   cords: {x: 6, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &235124784
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6233,9 +6094,6 @@ MonoBehaviour:
   cords: {x: 11, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &241401693
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6360,9 +6218,6 @@ MonoBehaviour:
   cords: {x: 8, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &247576588
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6487,9 +6342,6 @@ MonoBehaviour:
   cords: {x: 14, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &252788109
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6614,9 +6466,6 @@ MonoBehaviour:
   cords: {x: 11, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &267314680
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6741,9 +6590,6 @@ MonoBehaviour:
   cords: {x: 17, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &268326681
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6955,9 +6801,6 @@ MonoBehaviour:
   cords: {x: 15, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &271380135
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7082,9 +6925,6 @@ MonoBehaviour:
   cords: {x: 7, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &291391341
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7209,9 +7049,6 @@ MonoBehaviour:
   cords: {x: 13, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &291530098
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7336,9 +7173,6 @@ MonoBehaviour:
   cords: {x: 9, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &296859134
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7463,9 +7297,6 @@ MonoBehaviour:
   cords: {x: 16, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &297093225
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7590,9 +7421,6 @@ MonoBehaviour:
   cords: {x: 14, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &302520855
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7717,9 +7545,6 @@ MonoBehaviour:
   cords: {x: 3, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &304874057
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7844,9 +7669,6 @@ MonoBehaviour:
   cords: {x: 15, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &305920969
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7971,9 +7793,6 @@ MonoBehaviour:
   cords: {x: 9, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &309775991
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -8098,9 +7917,6 @@ MonoBehaviour:
   cords: {x: 18, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &310899446
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -8656,9 +8472,6 @@ MonoBehaviour:
   cords: {x: 13, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &329380880
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -8920,9 +8733,6 @@ MonoBehaviour:
   cords: {x: 11, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &335306464
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9047,9 +8857,6 @@ MonoBehaviour:
   cords: {x: 19, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &335801545
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9174,9 +8981,6 @@ MonoBehaviour:
   cords: {x: 11, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &343233506
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9301,9 +9105,6 @@ MonoBehaviour:
   cords: {x: 19, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &345824535
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9428,9 +9229,6 @@ MonoBehaviour:
   cords: {x: 13, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &346126231
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9555,9 +9353,6 @@ MonoBehaviour:
   cords: {x: 0, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &347399248
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9682,9 +9477,6 @@ MonoBehaviour:
   cords: {x: 17, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &349971846
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9809,9 +9601,6 @@ MonoBehaviour:
   cords: {x: 11, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &353152064
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9936,9 +9725,6 @@ MonoBehaviour:
   cords: {x: 6, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &356417679
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -10063,9 +9849,6 @@ MonoBehaviour:
   cords: {x: 15, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &361974685
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -10190,9 +9973,6 @@ MonoBehaviour:
   cords: {x: 14, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &362380572
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -10317,9 +10097,6 @@ MonoBehaviour:
   cords: {x: 14, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &365351625
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -10444,9 +10221,6 @@ MonoBehaviour:
   cords: {x: 4, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &365729542
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -10571,9 +10345,6 @@ MonoBehaviour:
   cords: {x: 9, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &365750959
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -10698,9 +10469,6 @@ MonoBehaviour:
   cords: {x: 7, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &368245370
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -10825,9 +10593,6 @@ MonoBehaviour:
   cords: {x: 17, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &373242258
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -10952,9 +10717,6 @@ MonoBehaviour:
   cords: {x: 5, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &377079411
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11079,9 +10841,6 @@ MonoBehaviour:
   cords: {x: 14, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &379504715
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11206,9 +10965,6 @@ MonoBehaviour:
   cords: {x: 8, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &391617198
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11333,9 +11089,6 @@ MonoBehaviour:
   cords: {x: 14, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &396099429
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11460,9 +11213,6 @@ MonoBehaviour:
   cords: {x: 15, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &398851326
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11587,9 +11337,6 @@ MonoBehaviour:
   cords: {x: 7, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &399227751
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11714,9 +11461,6 @@ MonoBehaviour:
   cords: {x: 12, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &407001510
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11841,9 +11585,6 @@ MonoBehaviour:
   cords: {x: 8, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &410085537
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -12089,9 +11830,6 @@ MonoBehaviour:
   cords: {x: 13, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &421057849
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -12216,9 +11954,6 @@ MonoBehaviour:
   cords: {x: 18, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &425946525
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -12343,9 +12078,6 @@ MonoBehaviour:
   cords: {x: 15, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &439725906
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -12470,9 +12202,6 @@ MonoBehaviour:
   cords: {x: 5, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &460049375
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -12597,9 +12326,6 @@ MonoBehaviour:
   cords: {x: 4, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &463666739
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -12724,9 +12450,6 @@ MonoBehaviour:
   cords: {x: 3, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &466066523
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -12851,9 +12574,6 @@ MonoBehaviour:
   cords: {x: 10, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &467993671
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -12978,9 +12698,6 @@ MonoBehaviour:
   cords: {x: 2, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &486549640
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -13105,9 +12822,6 @@ MonoBehaviour:
   cords: {x: 7, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &493352428
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -13232,9 +12946,6 @@ MonoBehaviour:
   cords: {x: 15, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &503034980
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -13359,9 +13070,6 @@ MonoBehaviour:
   cords: {x: 3, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &505402270
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -13486,9 +13194,6 @@ MonoBehaviour:
   cords: {x: 13, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &509798226
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -13613,9 +13318,6 @@ MonoBehaviour:
   cords: {x: 3, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &509817134
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -13740,9 +13442,6 @@ MonoBehaviour:
   cords: {x: 9, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &513463363
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -13939,9 +13638,6 @@ MonoBehaviour:
   cords: {x: 2, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &515370504
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -14066,9 +13762,6 @@ MonoBehaviour:
   cords: {x: 17, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &519103458
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -14193,9 +13886,6 @@ MonoBehaviour:
   cords: {x: 11, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &522285877
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -14320,9 +14010,6 @@ MonoBehaviour:
   cords: {x: 4, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &522601176
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -14532,9 +14219,6 @@ MonoBehaviour:
   cords: {x: 17, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &538569335
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -14659,9 +14343,6 @@ MonoBehaviour:
   cords: {x: 13, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &544534129
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -14786,9 +14467,6 @@ MonoBehaviour:
   cords: {x: 18, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &551200168
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -14913,9 +14591,6 @@ MonoBehaviour:
   cords: {x: 4, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &561908954
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -15040,9 +14715,6 @@ MonoBehaviour:
   cords: {x: 9, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &569430098
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -15167,9 +14839,6 @@ MonoBehaviour:
   cords: {x: 17, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &570004824
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -15294,9 +14963,6 @@ MonoBehaviour:
   cords: {x: 4, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &570867832
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -15421,9 +15087,6 @@ MonoBehaviour:
   cords: {x: 7, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &589131515
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -15548,9 +15211,6 @@ MonoBehaviour:
   cords: {x: 8, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &590359723
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -15604,6 +15264,78 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 590359719}
   m_Mesh: {fileID: -4855243574250553854, guid: c1cd67ec403e5d542a4a18df78037a60, type: 3}
+--- !u!1 &595168661
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 595168662}
+  - component: {fileID: 595168664}
+  - component: {fileID: 595168663}
+  m_Layer: 5
+  m_Name: RawImage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &595168662
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 595168661}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 956473080}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &595168663
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 595168661}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Texture: {fileID: 10910, guid: 0000000000000000f000000000000000, type: 0}
+  m_UVRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!222 &595168664
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 595168661}
+  m_CullTransparentMesh: 1
 --- !u!1 &598987927
 GameObject:
   m_ObjectHideFlags: 0
@@ -15675,9 +15407,6 @@ MonoBehaviour:
   cords: {x: 6, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &598987931
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -15802,9 +15531,6 @@ MonoBehaviour:
   cords: {x: 14, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &612951983
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -15929,9 +15655,6 @@ MonoBehaviour:
   cords: {x: 16, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &614054901
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -16056,9 +15779,6 @@ MonoBehaviour:
   cords: {x: 7, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &620157096
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -16183,9 +15903,6 @@ MonoBehaviour:
   cords: {x: 18, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &627888615
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -16310,9 +16027,6 @@ MonoBehaviour:
   cords: {x: 19, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &632951671
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -16437,9 +16151,6 @@ MonoBehaviour:
   cords: {x: 12, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &649328602
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -16564,9 +16275,6 @@ MonoBehaviour:
   cords: {x: 1, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &660252595
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -16691,9 +16399,6 @@ MonoBehaviour:
   cords: {x: 0, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &666491368
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -16818,9 +16523,6 @@ MonoBehaviour:
   cords: {x: 11, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &667676727
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -17078,9 +16780,6 @@ MonoBehaviour:
   cords: {x: 10, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &673604425
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -17205,9 +16904,6 @@ MonoBehaviour:
   cords: {x: 5, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &679091822
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -17332,9 +17028,6 @@ MonoBehaviour:
   cords: {x: 5, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &684591756
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -17459,9 +17152,6 @@ MonoBehaviour:
   cords: {x: 13, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &687152211
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -17586,9 +17276,6 @@ MonoBehaviour:
   cords: {x: 2, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &688413818
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -17713,9 +17400,6 @@ MonoBehaviour:
   cords: {x: 9, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &693635101
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -17840,9 +17524,6 @@ MonoBehaviour:
   cords: {x: 9, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &701436304
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -17967,9 +17648,6 @@ MonoBehaviour:
   cords: {x: 10, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &703432611
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -18094,9 +17772,6 @@ MonoBehaviour:
   cords: {x: 16, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &707891346
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -18221,9 +17896,6 @@ MonoBehaviour:
   cords: {x: 1, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &710822450
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -18348,9 +18020,6 @@ MonoBehaviour:
   cords: {x: 6, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &717391081
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -18575,9 +18244,6 @@ MonoBehaviour:
   cords: {x: 17, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &729663073
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -18702,9 +18368,6 @@ MonoBehaviour:
   cords: {x: 10, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &731992596
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -18829,9 +18492,6 @@ MonoBehaviour:
   cords: {x: 17, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &733413314
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -18956,9 +18616,6 @@ MonoBehaviour:
   cords: {x: 11, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &735111184
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -19083,9 +18740,6 @@ MonoBehaviour:
   cords: {x: 11, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &735700708
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -19210,9 +18864,6 @@ MonoBehaviour:
   cords: {x: 13, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &736786476
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -19337,9 +18988,6 @@ MonoBehaviour:
   cords: {x: 15, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &741202061
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -19464,9 +19112,6 @@ MonoBehaviour:
   cords: {x: 8, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &741297986
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -19591,9 +19236,6 @@ MonoBehaviour:
   cords: {x: 15, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &750693668
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -19718,9 +19360,6 @@ MonoBehaviour:
   cords: {x: 11, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &767626181
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -19845,9 +19484,6 @@ MonoBehaviour:
   cords: {x: 2, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &771380785
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -19972,9 +19608,6 @@ MonoBehaviour:
   cords: {x: 3, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &771410963
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -20099,9 +19732,6 @@ MonoBehaviour:
   cords: {x: 0, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &774163979
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -20226,9 +19856,6 @@ MonoBehaviour:
   cords: {x: 8, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &774527836
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -20353,9 +19980,6 @@ MonoBehaviour:
   cords: {x: 8, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &777802136
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -20480,9 +20104,6 @@ MonoBehaviour:
   cords: {x: 15, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &784637472
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -20607,9 +20228,6 @@ MonoBehaviour:
   cords: {x: 18, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &795871971
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -20734,9 +20352,6 @@ MonoBehaviour:
   cords: {x: 18, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &805147794
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -20861,9 +20476,6 @@ MonoBehaviour:
   cords: {x: 18, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &805260434
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -20988,9 +20600,6 @@ MonoBehaviour:
   cords: {x: 10, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &805711982
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21115,9 +20724,6 @@ MonoBehaviour:
   cords: {x: 1, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &815076467
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21242,9 +20848,6 @@ MonoBehaviour:
   cords: {x: 19, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &818511465
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21369,9 +20972,6 @@ MonoBehaviour:
   cords: {x: 14, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &828095606
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21496,9 +21096,6 @@ MonoBehaviour:
   cords: {x: 15, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &831633405
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21672,9 +21269,6 @@ MonoBehaviour:
   cords: {x: 10, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &833851046
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21799,9 +21393,6 @@ MonoBehaviour:
   cords: {x: 1, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &836742534
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21926,9 +21517,6 @@ MonoBehaviour:
   cords: {x: 5, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &836891034
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -22053,9 +21641,6 @@ MonoBehaviour:
   cords: {x: 5, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &837623716
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -22180,9 +21765,6 @@ MonoBehaviour:
   cords: {x: 1, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &839382183
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -22307,9 +21889,6 @@ MonoBehaviour:
   cords: {x: 16, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &839532291
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -22434,9 +22013,6 @@ MonoBehaviour:
   cords: {x: 4, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &843198502
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -22561,9 +22137,6 @@ MonoBehaviour:
   cords: {x: 12, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &849234649
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -22688,9 +22261,6 @@ MonoBehaviour:
   cords: {x: 16, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &851668228
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -22815,9 +22385,6 @@ MonoBehaviour:
   cords: {x: 9, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &854129162
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -22942,9 +22509,6 @@ MonoBehaviour:
   cords: {x: 19, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &862364587
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -23069,9 +22633,6 @@ MonoBehaviour:
   cords: {x: 4, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &882008590
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -23196,9 +22757,6 @@ MonoBehaviour:
   cords: {x: 9, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &898691185
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -23323,9 +22881,6 @@ MonoBehaviour:
   cords: {x: 19, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &901360648
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -23450,9 +23005,6 @@ MonoBehaviour:
   cords: {x: 18, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &911200169
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -23577,9 +23129,6 @@ MonoBehaviour:
   cords: {x: 8, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &911212863
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -23704,9 +23253,6 @@ MonoBehaviour:
   cords: {x: 0, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &923596580
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -23831,9 +23377,6 @@ MonoBehaviour:
   cords: {x: 1, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &926118792
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -23958,9 +23501,6 @@ MonoBehaviour:
   cords: {x: 19, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &928315644
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -24085,9 +23625,6 @@ MonoBehaviour:
   cords: {x: 15, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &930892235
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -24212,9 +23749,6 @@ MonoBehaviour:
   cords: {x: 5, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &932805668
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -24339,9 +23873,6 @@ MonoBehaviour:
   cords: {x: 13, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &938997969
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -24395,6 +23926,139 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 938997965}
   m_Mesh: {fileID: -4855243574250553854, guid: c1cd67ec403e5d542a4a18df78037a60, type: 3}
+--- !u!1 &956473079
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 956473080}
+  - component: {fileID: 956473083}
+  - component: {fileID: 956473082}
+  - component: {fileID: 956473081}
+  m_Layer: 5
+  m_Name: Button (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &956473080
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 956473079}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 595168662}
+  m_Father: {fileID: 1882913145}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &956473081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 956473079}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 0}
+    m_HighlightedColor: {r: 0.4245283, g: 0.4245283, b: 0.4245283, a: 0.3882353}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.2735849, g: 0.2735849, b: 0.2735849, a: 0.39607844}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 956473082}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 159238477}
+        m_TargetAssemblyTypeName: TowerPlacing, Assembly-CSharp
+        m_MethodName: SelectPath
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Mage
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &956473082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 956473079}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &956473083
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 956473079}
+  m_CullTransparentMesh: 1
 --- !u!1 &966644010
 GameObject:
   m_ObjectHideFlags: 0
@@ -24466,9 +24130,6 @@ MonoBehaviour:
   cords: {x: 3, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &966644014
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -24593,9 +24254,6 @@ MonoBehaviour:
   cords: {x: 2, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &971772240
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -24720,9 +24378,6 @@ MonoBehaviour:
   cords: {x: 1, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &972527819
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -24847,9 +24502,6 @@ MonoBehaviour:
   cords: {x: 8, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &973486628
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -24974,9 +24626,6 @@ MonoBehaviour:
   cords: {x: 3, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &973736529
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -25101,9 +24750,6 @@ MonoBehaviour:
   cords: {x: 12, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &978367301
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -25228,9 +24874,6 @@ MonoBehaviour:
   cords: {x: 10, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &980804865
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -25355,9 +24998,6 @@ MonoBehaviour:
   cords: {x: 19, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &986163486
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -25482,9 +25122,6 @@ MonoBehaviour:
   cords: {x: 5, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &991892841
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -25609,9 +25246,6 @@ MonoBehaviour:
   cords: {x: 10, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1005655741
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -25736,9 +25370,6 @@ MonoBehaviour:
   cords: {x: 5, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1008676712
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -25863,9 +25494,6 @@ MonoBehaviour:
   cords: {x: 19, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1010458242
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -25990,9 +25618,6 @@ MonoBehaviour:
   cords: {x: 2, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1019018153
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -26117,9 +25742,6 @@ MonoBehaviour:
   cords: {x: 8, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1024260996
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -26244,9 +25866,6 @@ MonoBehaviour:
   cords: {x: 3, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1030198958
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -26371,9 +25990,6 @@ MonoBehaviour:
   cords: {x: 14, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1042094122
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -26498,9 +26114,6 @@ MonoBehaviour:
   cords: {x: 4, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1050538588
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -26625,9 +26238,6 @@ MonoBehaviour:
   cords: {x: 4, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1063288919
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -26752,9 +26362,6 @@ MonoBehaviour:
   cords: {x: 0, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1070617135
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -26879,9 +26486,6 @@ MonoBehaviour:
   cords: {x: 15, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1071537977
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -27006,9 +26610,6 @@ MonoBehaviour:
   cords: {x: 5, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1075520319
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -27133,9 +26734,6 @@ MonoBehaviour:
   cords: {x: 7, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1077642225
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -27260,9 +26858,6 @@ MonoBehaviour:
   cords: {x: 17, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1085034776
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -27387,9 +26982,6 @@ MonoBehaviour:
   cords: {x: 10, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1087995960
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -27514,9 +27106,6 @@ MonoBehaviour:
   cords: {x: 0, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1100217899
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -27641,9 +27230,6 @@ MonoBehaviour:
   cords: {x: 18, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1106106942
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -27768,9 +27354,6 @@ MonoBehaviour:
   cords: {x: 15, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1112487013
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -27895,9 +27478,6 @@ MonoBehaviour:
   cords: {x: 7, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1117319302
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -28022,9 +27602,6 @@ MonoBehaviour:
   cords: {x: 12, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1120217799
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -28252,9 +27829,6 @@ MonoBehaviour:
   cords: {x: 2, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1123236920
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -28379,9 +27953,6 @@ MonoBehaviour:
   cords: {x: 2, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1123391976
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -28506,9 +28077,6 @@ MonoBehaviour:
   cords: {x: 16, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1128597728
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -28633,9 +28201,6 @@ MonoBehaviour:
   cords: {x: 16, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1130448427
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -28760,9 +28325,6 @@ MonoBehaviour:
   cords: {x: 3, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1131556206
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -28959,9 +28521,6 @@ MonoBehaviour:
   cords: {x: 12, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1136000388
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -29086,9 +28645,6 @@ MonoBehaviour:
   cords: {x: 1, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1137319311
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -29213,9 +28769,6 @@ MonoBehaviour:
   cords: {x: 4, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1147001711
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -29340,9 +28893,6 @@ MonoBehaviour:
   cords: {x: 6, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1147850571
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -29467,9 +29017,6 @@ MonoBehaviour:
   cords: {x: 6, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1150150616
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -29594,9 +29141,6 @@ MonoBehaviour:
   cords: {x: 13, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1150494634
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -29721,9 +29265,6 @@ MonoBehaviour:
   cords: {x: 19, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1152423298
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -29848,9 +29389,6 @@ MonoBehaviour:
   cords: {x: 19, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1153058619
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -29975,9 +29513,6 @@ MonoBehaviour:
   cords: {x: 2, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1155923561
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -30102,9 +29637,6 @@ MonoBehaviour:
   cords: {x: 19, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1156177319
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -30229,9 +29761,6 @@ MonoBehaviour:
   cords: {x: 6, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1166068099
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -30356,9 +29885,6 @@ MonoBehaviour:
   cords: {x: 16, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1169359948
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -30483,9 +30009,6 @@ MonoBehaviour:
   cords: {x: 4, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1170708667
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -30610,9 +30133,6 @@ MonoBehaviour:
   cords: {x: 10, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1179977416
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -30737,9 +30257,6 @@ MonoBehaviour:
   cords: {x: 10, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1181498448
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -30864,9 +30381,6 @@ MonoBehaviour:
   cords: {x: 3, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1184589896
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -30991,9 +30505,6 @@ MonoBehaviour:
   cords: {x: 8, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1194171530
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -31118,9 +30629,6 @@ MonoBehaviour:
   cords: {x: 15, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1195715417
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -31245,9 +30753,6 @@ MonoBehaviour:
   cords: {x: 7, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1196674769
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -31372,9 +30877,6 @@ MonoBehaviour:
   cords: {x: 15, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1197259320
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -31499,9 +31001,6 @@ MonoBehaviour:
   cords: {x: 2, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1204315391
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -31626,9 +31125,6 @@ MonoBehaviour:
   cords: {x: 0, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1206503778
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -31753,9 +31249,6 @@ MonoBehaviour:
   cords: {x: 6, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1218524474
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -31880,9 +31373,6 @@ MonoBehaviour:
   cords: {x: 1, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1225666589
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -32007,9 +31497,6 @@ MonoBehaviour:
   cords: {x: 9, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1226745725
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -32134,9 +31621,6 @@ MonoBehaviour:
   cords: {x: 6, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1226963126
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -32261,9 +31745,6 @@ MonoBehaviour:
   cords: {x: 7, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1228614731
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -32388,9 +31869,6 @@ MonoBehaviour:
   cords: {x: 12, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1236284001
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -32515,9 +31993,6 @@ MonoBehaviour:
   cords: {x: 8, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1238320885
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -32642,9 +32117,6 @@ MonoBehaviour:
   cords: {x: 12, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1250318209
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -32769,9 +32241,6 @@ MonoBehaviour:
   cords: {x: 5, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1253035735
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -32896,9 +32365,6 @@ MonoBehaviour:
   cords: {x: 0, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1257551261
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -33023,9 +32489,6 @@ MonoBehaviour:
   cords: {x: 6, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1259962329
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -33150,9 +32613,6 @@ MonoBehaviour:
   cords: {x: 3, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1260123523
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -33277,9 +32737,6 @@ MonoBehaviour:
   cords: {x: 19, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1268612564
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -33404,9 +32861,6 @@ MonoBehaviour:
   cords: {x: 8, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1271988966
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -33531,9 +32985,6 @@ MonoBehaviour:
   cords: {x: 17, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1279898407
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -33658,9 +33109,6 @@ MonoBehaviour:
   cords: {x: 18, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1280412101
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -33785,9 +33233,6 @@ MonoBehaviour:
   cords: {x: 6, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1282789060
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -33912,9 +33357,6 @@ MonoBehaviour:
   cords: {x: 19, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1284870693
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -34039,9 +33481,6 @@ MonoBehaviour:
   cords: {x: 2, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1289402802
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -34166,9 +33605,6 @@ MonoBehaviour:
   cords: {x: 8, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1296330020
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -34293,9 +33729,6 @@ MonoBehaviour:
   cords: {x: 5, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1320886142
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -34420,9 +33853,6 @@ MonoBehaviour:
   cords: {x: 9, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1334371605
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -34547,9 +33977,6 @@ MonoBehaviour:
   cords: {x: 12, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1337717082
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -34674,9 +34101,6 @@ MonoBehaviour:
   cords: {x: 5, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1350283411
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -34801,9 +34225,6 @@ MonoBehaviour:
   cords: {x: 18, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1356120987
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -34928,9 +34349,6 @@ MonoBehaviour:
   cords: {x: 15, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1356457900
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -35055,9 +34473,6 @@ MonoBehaviour:
   cords: {x: 10, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1357394522
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -35182,9 +34597,6 @@ MonoBehaviour:
   cords: {x: 7, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1358087869
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -35309,9 +34721,6 @@ MonoBehaviour:
   cords: {x: 0, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1362108308
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -35436,9 +34845,6 @@ MonoBehaviour:
   cords: {x: 4, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1364653343
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -35563,9 +34969,6 @@ MonoBehaviour:
   cords: {x: 14, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1371470623
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -35690,9 +35093,6 @@ MonoBehaviour:
   cords: {x: 10, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1373942097
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -35817,9 +35217,6 @@ MonoBehaviour:
   cords: {x: 12, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1382305948
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -35944,9 +35341,6 @@ MonoBehaviour:
   cords: {x: 7, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1384498646
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -36071,9 +35465,6 @@ MonoBehaviour:
   cords: {x: 0, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1390461153
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -36331,9 +35722,6 @@ MonoBehaviour:
   cords: {x: 4, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1401104309
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -36458,9 +35846,6 @@ MonoBehaviour:
   cords: {x: 2, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1402476600
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -36585,9 +35970,6 @@ MonoBehaviour:
   cords: {x: 10, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1403529700
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -36712,9 +36094,6 @@ MonoBehaviour:
   cords: {x: 2, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1403621027
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -36839,9 +36218,6 @@ MonoBehaviour:
   cords: {x: 14, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1404626491
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -36966,9 +36342,6 @@ MonoBehaviour:
   cords: {x: 13, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1406562945
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -37226,9 +36599,6 @@ MonoBehaviour:
   cords: {x: 6, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1415645397
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -37432,9 +36802,6 @@ MonoBehaviour:
   cords: {x: 13, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1425791263
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -37559,9 +36926,6 @@ MonoBehaviour:
   cords: {x: 5, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1427000828
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -37686,9 +37050,6 @@ MonoBehaviour:
   cords: {x: 5, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1429185129
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -37813,9 +37174,6 @@ MonoBehaviour:
   cords: {x: 11, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1434750143
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -37940,9 +37298,6 @@ MonoBehaviour:
   cords: {x: 19, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1440560140
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -38067,9 +37422,6 @@ MonoBehaviour:
   cords: {x: 7, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1441931059
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -38194,9 +37546,6 @@ MonoBehaviour:
   cords: {x: 1, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1442617568
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -38321,9 +37670,6 @@ MonoBehaviour:
   cords: {x: 14, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1447014845
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -38448,9 +37794,6 @@ MonoBehaviour:
   cords: {x: 13, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1447715608
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -38575,9 +37918,6 @@ MonoBehaviour:
   cords: {x: 19, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1449014169
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -38702,9 +38042,6 @@ MonoBehaviour:
   cords: {x: 1, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1450715261
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -38829,9 +38166,6 @@ MonoBehaviour:
   cords: {x: 17, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1453802319
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -38956,9 +38290,6 @@ MonoBehaviour:
   cords: {x: 14, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1463308909
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -39083,9 +38414,6 @@ MonoBehaviour:
   cords: {x: 14, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1465871566
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -39210,9 +38538,6 @@ MonoBehaviour:
   cords: {x: 16, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1468628185
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -39337,9 +38662,6 @@ MonoBehaviour:
   cords: {x: 7, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1474268409
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -39464,9 +38786,6 @@ MonoBehaviour:
   cords: {x: 4, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1476737650
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -39591,9 +38910,6 @@ MonoBehaviour:
   cords: {x: 18, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1518155236
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -39718,9 +39034,6 @@ MonoBehaviour:
   cords: {x: 1, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1522845880
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -39845,9 +39158,6 @@ MonoBehaviour:
   cords: {x: 1, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1532460285
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -39972,9 +39282,6 @@ MonoBehaviour:
   cords: {x: 9, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1542152913
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -40099,9 +39406,6 @@ MonoBehaviour:
   cords: {x: 0, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1542358007
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -40359,9 +39663,6 @@ MonoBehaviour:
   cords: {x: 9, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1545094630
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -40486,9 +39787,6 @@ MonoBehaviour:
   cords: {x: 10, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1555874265
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -40613,9 +39911,6 @@ MonoBehaviour:
   cords: {x: 9, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1558559165
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -40740,9 +40035,6 @@ MonoBehaviour:
   cords: {x: 18, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1597070028
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -40867,9 +40159,6 @@ MonoBehaviour:
   cords: {x: 16, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1597263587
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -40994,9 +40283,6 @@ MonoBehaviour:
   cords: {x: 3, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1597424522
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -41121,9 +40407,6 @@ MonoBehaviour:
   cords: {x: 0, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1602927569
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -41248,9 +40531,6 @@ MonoBehaviour:
   cords: {x: 18, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1610731432
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -41375,9 +40655,6 @@ MonoBehaviour:
   cords: {x: 9, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1612576552
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -41502,9 +40779,6 @@ MonoBehaviour:
   cords: {x: 8, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1618499217
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -41629,9 +40903,6 @@ MonoBehaviour:
   cords: {x: 9, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1619068027
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -41756,9 +41027,6 @@ MonoBehaviour:
   cords: {x: 3, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1620235786
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -41883,9 +41151,6 @@ MonoBehaviour:
   cords: {x: 3, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1621540604
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -42010,9 +41275,6 @@ MonoBehaviour:
   cords: {x: 10, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1625276320
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -42137,9 +41399,6 @@ MonoBehaviour:
   cords: {x: 9, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1638601539
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -42264,9 +41523,6 @@ MonoBehaviour:
   cords: {x: 4, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1661702660
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -42391,9 +41647,6 @@ MonoBehaviour:
   cords: {x: 4, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1669057740
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -42518,9 +41771,6 @@ MonoBehaviour:
   cords: {x: 17, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1672470718
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -42645,9 +41895,6 @@ MonoBehaviour:
   cords: {x: 4, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1677226972
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -42772,9 +42019,6 @@ MonoBehaviour:
   cords: {x: 19, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1679298274
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -42899,9 +42143,6 @@ MonoBehaviour:
   cords: {x: 9, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1687527902
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -43026,9 +42267,6 @@ MonoBehaviour:
   cords: {x: 2, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1694755603
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -43153,9 +42391,6 @@ MonoBehaviour:
   cords: {x: 7, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1698282366
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -43280,9 +42515,6 @@ MonoBehaviour:
   cords: {x: 0, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1703227995
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -43407,9 +42639,6 @@ MonoBehaviour:
   cords: {x: 16, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1706417429
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -43534,9 +42763,6 @@ MonoBehaviour:
   cords: {x: 1, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1713461465
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -43661,9 +42887,6 @@ MonoBehaviour:
   cords: {x: 6, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1715242515
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -43788,9 +43011,6 @@ MonoBehaviour:
   cords: {x: 11, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1738077288
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -43915,9 +43135,6 @@ MonoBehaviour:
   cords: {x: 16, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1739019447
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -44042,9 +43259,6 @@ MonoBehaviour:
   cords: {x: 2, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1740885794
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -44169,9 +43383,6 @@ MonoBehaviour:
   cords: {x: 2, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1744140791
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -44296,9 +43507,6 @@ MonoBehaviour:
   cords: {x: 4, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1750751118
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -44423,9 +43631,6 @@ MonoBehaviour:
   cords: {x: 6, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1768514341
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -44550,9 +43755,6 @@ MonoBehaviour:
   cords: {x: 0, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1773159716
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -44677,9 +43879,6 @@ MonoBehaviour:
   cords: {x: 6, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1774938538
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -44804,9 +44003,6 @@ MonoBehaviour:
   cords: {x: 12, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1775827268
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -44931,9 +44127,6 @@ MonoBehaviour:
   cords: {x: 3, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1776928289
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -45058,9 +44251,6 @@ MonoBehaviour:
   cords: {x: 3, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1780751945
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -45185,9 +44375,6 @@ MonoBehaviour:
   cords: {x: 16, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1784907818
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -45312,9 +44499,6 @@ MonoBehaviour:
   cords: {x: 11, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1810164755
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -45439,9 +44623,6 @@ MonoBehaviour:
   cords: {x: 0, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1815065732
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -45566,9 +44747,6 @@ MonoBehaviour:
   cords: {x: 18, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1817223323
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -45693,9 +44871,6 @@ MonoBehaviour:
   cords: {x: 17, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1818917787
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -45820,9 +44995,6 @@ MonoBehaviour:
   cords: {x: 18, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1818933820
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -46019,9 +45191,6 @@ MonoBehaviour:
   cords: {x: 18, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1826468675
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -46146,9 +45315,6 @@ MonoBehaviour:
   cords: {x: 12, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1828313382
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -46273,9 +45439,6 @@ MonoBehaviour:
   cords: {x: 1, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1838829860
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -46400,9 +45563,6 @@ MonoBehaviour:
   cords: {x: 12, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1839198864
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -46527,9 +45687,6 @@ MonoBehaviour:
   cords: {x: 18, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1840228605
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -46654,9 +45811,6 @@ MonoBehaviour:
   cords: {x: 10, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1840435223
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -46781,9 +45935,6 @@ MonoBehaviour:
   cords: {x: 5, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1843097618
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -46908,9 +46059,6 @@ MonoBehaviour:
   cords: {x: 12, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1851331230
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -47035,9 +46183,6 @@ MonoBehaviour:
   cords: {x: 6, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1855464800
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -47162,9 +46307,6 @@ MonoBehaviour:
   cords: {x: 0, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1858936065
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -47289,9 +46431,6 @@ MonoBehaviour:
   cords: {x: 0, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1864144419
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -47488,9 +46627,6 @@ MonoBehaviour:
   cords: {x: 18, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1872895797
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -47615,9 +46751,6 @@ MonoBehaviour:
   cords: {x: 16, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1874588863
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -47706,6 +46839,7 @@ RectTransform:
   - {fileID: 672149558}
   - {fileID: 1407295205}
   - {fileID: 1545006249}
+  - {fileID: 956473080}
   m_Father: {fileID: 1122048144}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -47846,9 +46980,6 @@ MonoBehaviour:
   cords: {x: 16, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1905928076
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -47973,9 +47104,6 @@ MonoBehaviour:
   cords: {x: 4, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1915788839
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -48100,9 +47228,6 @@ MonoBehaviour:
   cords: {x: 14, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1916024041
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -48227,9 +47352,6 @@ MonoBehaviour:
   cords: {x: 13, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1916173658
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -48354,9 +47476,6 @@ MonoBehaviour:
   cords: {x: 5, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1927890105
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -48481,9 +47600,6 @@ MonoBehaviour:
   cords: {x: 15, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1928756956
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -48608,9 +47724,6 @@ MonoBehaviour:
   cords: {x: 12, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1933243960
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -48735,9 +47848,6 @@ MonoBehaviour:
   cords: {x: 10, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1946284425
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -48862,9 +47972,6 @@ MonoBehaviour:
   cords: {x: 13, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1946462948
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -48989,9 +48096,6 @@ MonoBehaviour:
   cords: {x: 19, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1963896994
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -49116,9 +48220,6 @@ MonoBehaviour:
   cords: {x: 1, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1964254653
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -49243,9 +48344,6 @@ MonoBehaviour:
   cords: {x: 8, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1966133572
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -49370,9 +48468,6 @@ MonoBehaviour:
   cords: {x: 14, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1967915333
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -49497,9 +48592,6 @@ MonoBehaviour:
   cords: {x: 10, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1972957154
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -49624,9 +48716,6 @@ MonoBehaviour:
   cords: {x: 8, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1983002138
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -49751,9 +48840,6 @@ MonoBehaviour:
   cords: {x: 6, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &1983457008
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -49878,9 +48964,6 @@ MonoBehaviour:
   cords: {x: 17, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2008159565
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -50005,9 +49088,6 @@ MonoBehaviour:
   cords: {x: 15, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2009791084
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -50132,9 +49212,6 @@ MonoBehaviour:
   cords: {x: 1, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2010417992
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -50259,9 +49336,6 @@ MonoBehaviour:
   cords: {x: 16, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2014982824
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -50386,9 +49460,6 @@ MonoBehaviour:
   cords: {x: 5, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2020547699
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -50513,9 +49584,6 @@ MonoBehaviour:
   cords: {x: 19, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2021343560
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -50640,9 +49708,6 @@ MonoBehaviour:
   cords: {x: 16, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2022217397
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -50767,9 +49832,6 @@ MonoBehaviour:
   cords: {x: 8, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2031569586
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -50894,9 +49956,6 @@ MonoBehaviour:
   cords: {x: 17, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2033096775
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -51021,9 +50080,6 @@ MonoBehaviour:
   cords: {x: 16, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2034657962
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -51148,9 +50204,6 @@ MonoBehaviour:
   cords: {x: 16, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2035640946
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -51275,9 +50328,6 @@ MonoBehaviour:
   cords: {x: 13, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2037903391
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -51402,9 +50452,6 @@ MonoBehaviour:
   cords: {x: 9, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2050809859
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -51529,9 +50576,6 @@ MonoBehaviour:
   cords: {x: 5, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2052497337
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -51656,9 +50700,6 @@ MonoBehaviour:
   cords: {x: 11, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2056018246
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -51783,9 +50824,6 @@ MonoBehaviour:
   cords: {x: 6, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2058460807
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -51910,9 +50948,6 @@ MonoBehaviour:
   cords: {x: 2, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2073795813
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -52037,9 +51072,6 @@ MonoBehaviour:
   cords: {x: 6, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2082131779
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -52164,9 +51196,6 @@ MonoBehaviour:
   cords: {x: 12, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2084606992
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -52429,9 +51458,6 @@ MonoBehaviour:
   cords: {x: 11, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2107681329
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -52556,9 +51582,6 @@ MonoBehaviour:
   cords: {x: 9, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2108253977
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -52683,9 +51706,6 @@ MonoBehaviour:
   cords: {x: 11, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2120802209
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -52810,9 +51830,6 @@ MonoBehaviour:
   cords: {x: 7, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2128710694
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -52937,9 +51954,6 @@ MonoBehaviour:
   cords: {x: 15, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2135342093
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -53064,9 +52078,6 @@ MonoBehaviour:
   cords: {x: 3, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2142350763
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -53324,9 +52335,6 @@ MonoBehaviour:
   cords: {x: 11, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!23 &2146683774
 MeshRenderer:
   m_ObjectHideFlags: 0

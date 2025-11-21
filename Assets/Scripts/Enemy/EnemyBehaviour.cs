@@ -37,7 +37,7 @@ public class EnemyBehaviour : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody>();
-        StartCoroutine(FindPath());
+        //StartCoroutine(FindPath());
     }
 
     void Update()
@@ -128,7 +128,6 @@ public class EnemyBehaviour : MonoBehaviour
         if (!pathSuccess)
         {
             Debug.LogWarning("No path found!");
-            StartCoroutine(FindPath());
         }
 
         stopwatch.Stop();

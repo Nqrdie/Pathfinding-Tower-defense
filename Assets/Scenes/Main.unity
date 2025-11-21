@@ -187,6 +187,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -311,6 +312,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -435,6 +437,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -559,6 +562,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -683,6 +687,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -807,6 +812,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -931,6 +937,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -1055,6 +1062,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -1179,6 +1187,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -1303,6 +1312,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -1427,6 +1437,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -1551,6 +1562,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -1675,6 +1687,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -1799,6 +1812,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -1923,6 +1937,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -2047,6 +2062,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -2171,6 +2187,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -2295,6 +2312,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -2419,6 +2437,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -2543,6 +2562,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -2667,6 +2687,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -2791,6 +2812,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -2915,6 +2937,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -3005,6 +3028,8 @@ MonoBehaviour:
   tileHolder: {fileID: 315405975}
   gridSize: {x: 20, y: 20}
   unityGridSize: 1
+  straightMesh: {fileID: 1403969690596524265, guid: 8f46688151281484e80761b1eeb794f8, type: 3}
+  cornerMesh: {fileID: 3290900866270390058, guid: 39d92cc3b8943b34f94186d650c96a35, type: 3}
 --- !u!4 &159238476
 Transform:
   m_ObjectHideFlags: 0
@@ -3032,9 +3057,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 852563e8349ac5045ab01f67a5e46793, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  defaultCursor: {fileID: 2800000, guid: 924cb63e43eef4a4aac7d0d1c52f548b, type: 3}
+  deleteCursor: {fileID: 2800000, guid: cb1e1580bb3bcb2408dc0f995f9a787a, type: 3}
+  treeMesh: {fileID: -6032365043310741612, guid: 368dcd7e442b08a49a7c521234d8cf58, type: 3}
   selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  tileMesh: {fileID: 1403969690596524265, guid: 8f46688151281484e80761b1eeb794f8, type: 3}
-  pathMesh: {fileID: -4855243574250553854, guid: c1cd67ec403e5d542a4a18df78037a60, type: 3}
+  tileMesh: {fileID: -4855243574250553854, guid: c1cd67ec403e5d542a4a18df78037a60, type: 3}
+  pathMesh: {fileID: 1403969690596524265, guid: 8f46688151281484e80761b1eeb794f8, type: 3}
   coreTower:
   - {fileID: 6043057151578055805, guid: 58218c8ce5519ff4fb905ae309c5e41f, type: 3}
   - {fileID: 2035804140338095637, guid: e48cdd8907c19bd4c9cb176b31f64993, type: 3}
@@ -3115,6 +3143,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -3239,6 +3268,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -3363,6 +3393,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -3487,6 +3518,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -3611,6 +3643,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -3735,6 +3768,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -3859,6 +3893,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -3983,6 +4018,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -4107,6 +4143,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -4231,6 +4268,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -4355,6 +4393,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -4479,6 +4518,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -4603,6 +4643,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -4727,6 +4768,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -4851,6 +4893,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -4975,6 +5018,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -5099,6 +5143,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -5223,6 +5268,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -5347,6 +5393,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -5471,6 +5518,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -5595,6 +5643,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -5719,6 +5768,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -5843,6 +5893,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -5967,6 +6018,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -6091,6 +6143,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -6215,6 +6268,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -6339,6 +6393,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -6463,6 +6518,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -6587,6 +6643,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -6798,6 +6855,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -6922,6 +6980,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -7046,6 +7105,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -7170,6 +7230,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -7294,6 +7355,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -7418,6 +7480,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -7542,6 +7605,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -7666,6 +7730,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -7790,6 +7855,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -7914,6 +7980,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -8469,6 +8536,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -8730,6 +8798,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -8854,6 +8923,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -8978,6 +9048,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -9102,6 +9173,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -9226,6 +9298,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -9350,6 +9423,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -9474,6 +9548,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -9598,6 +9673,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -9722,6 +9798,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -9846,6 +9923,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -9970,6 +10048,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -10094,6 +10173,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -10218,6 +10298,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -10342,6 +10423,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -10466,6 +10548,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -10590,6 +10673,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -10714,6 +10798,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -10838,6 +10923,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -10962,6 +11048,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -11086,6 +11173,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -11210,6 +11298,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -11334,6 +11423,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -11458,6 +11548,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -11582,6 +11673,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -11827,6 +11919,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -11951,6 +12044,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -12075,6 +12169,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -12199,6 +12294,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -12323,6 +12419,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -12447,6 +12544,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -12571,6 +12669,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -12695,6 +12794,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -12819,6 +12919,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -12943,6 +13044,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -13067,6 +13169,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -13191,6 +13294,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -13315,6 +13419,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -13439,6 +13544,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -13635,6 +13741,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -13759,6 +13866,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -13883,6 +13991,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -14007,6 +14116,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -14216,6 +14326,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -14340,6 +14451,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -14464,6 +14576,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -14588,6 +14701,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -14712,6 +14826,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -14836,6 +14951,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -14960,6 +15076,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -15084,6 +15201,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -15208,6 +15326,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -15321,7 +15440,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 10910, guid: 0000000000000000f000000000000000, type: 0}
+  m_Texture: {fileID: 2800000, guid: 8effa0732d5dc714aa9217020aac717e, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -15404,6 +15523,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -15528,6 +15648,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -15652,6 +15773,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -15776,6 +15898,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -15900,6 +16023,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -16024,6 +16148,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -16148,6 +16273,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -16272,6 +16398,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -16396,6 +16523,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -16520,6 +16648,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -16777,6 +16906,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -16901,6 +17031,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -17025,6 +17156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -17149,6 +17281,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -17273,6 +17406,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -17397,6 +17531,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -17521,6 +17656,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -17645,6 +17781,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -17769,6 +17906,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -17893,6 +18031,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -18017,6 +18156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -18241,6 +18381,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -18365,6 +18506,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -18489,6 +18631,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -18613,6 +18756,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -18737,6 +18881,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -18861,6 +19006,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -18985,6 +19131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -19109,6 +19256,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -19233,6 +19381,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -19357,6 +19506,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -19481,6 +19631,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -19605,6 +19756,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -19729,6 +19881,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -19853,6 +20006,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -19977,6 +20131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -20101,6 +20256,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -20225,6 +20381,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -20349,6 +20506,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -20473,6 +20631,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -20597,6 +20756,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -20721,6 +20881,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -20845,6 +21006,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -20969,6 +21131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -21093,6 +21256,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -21266,6 +21430,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -21390,6 +21555,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -21514,6 +21680,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -21638,6 +21805,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -21762,6 +21930,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -21886,6 +22055,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -22010,6 +22180,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -22134,6 +22305,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -22258,6 +22430,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -22382,6 +22555,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -22506,6 +22680,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -22630,6 +22805,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -22754,6 +22930,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -22878,6 +23055,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -23002,6 +23180,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -23126,6 +23305,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -23250,6 +23430,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -23374,6 +23555,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -23498,6 +23680,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -23622,6 +23805,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -23746,6 +23930,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -23870,6 +24055,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -24127,6 +24313,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -24251,6 +24438,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -24375,6 +24563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -24499,6 +24688,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -24623,6 +24813,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -24747,6 +24938,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -24871,6 +25063,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -24995,6 +25188,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -25119,6 +25313,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -25243,6 +25438,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -25367,6 +25563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -25491,6 +25688,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -25615,6 +25813,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -25739,6 +25938,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -25863,6 +26063,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -25987,6 +26188,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -26111,6 +26313,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -26235,6 +26438,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -26359,6 +26563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -26483,6 +26688,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -26607,6 +26813,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -26731,6 +26938,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -26855,6 +27063,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -26979,6 +27188,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -27103,6 +27313,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -27227,6 +27438,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -27351,6 +27563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -27475,6 +27688,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -27599,6 +27813,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -27826,6 +28041,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -27950,6 +28166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -28074,6 +28291,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -28198,6 +28416,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -28322,6 +28541,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -28518,6 +28738,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -28642,6 +28863,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -28766,6 +28988,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -28890,6 +29113,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -29014,6 +29238,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -29138,6 +29363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -29262,6 +29488,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -29386,6 +29613,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -29510,6 +29738,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -29634,6 +29863,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -29758,6 +29988,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -29882,6 +30113,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -30006,6 +30238,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -30130,6 +30363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -30254,6 +30488,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -30378,6 +30613,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -30502,6 +30738,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -30626,6 +30863,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -30750,6 +30988,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -30874,6 +31113,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -30998,6 +31238,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -31122,6 +31363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -31246,6 +31488,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -31370,6 +31613,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -31494,6 +31738,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -31618,6 +31863,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -31742,6 +31988,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -31866,6 +32113,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -31990,6 +32238,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -32114,6 +32363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -32238,6 +32488,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -32362,6 +32613,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -32486,6 +32738,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -32610,6 +32863,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -32734,6 +32988,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -32858,6 +33113,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -32982,6 +33238,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -33106,6 +33363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -33230,6 +33488,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -33354,6 +33613,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -33478,6 +33738,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -33602,6 +33863,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -33726,6 +33988,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -33850,6 +34113,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -33974,6 +34238,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -34098,6 +34363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -34222,6 +34488,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -34346,6 +34613,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -34470,6 +34738,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -34594,6 +34863,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -34718,6 +34988,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -34842,6 +35113,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -34966,6 +35238,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -35090,6 +35363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -35214,6 +35488,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -35338,6 +35613,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -35462,6 +35738,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -35719,6 +35996,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -35843,6 +36121,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -35967,6 +36246,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -36091,6 +36371,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -36215,6 +36496,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -36339,6 +36621,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -36596,6 +36879,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -36799,6 +37083,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -36923,6 +37208,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -37047,6 +37333,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -37171,6 +37458,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -37295,6 +37583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -37419,6 +37708,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -37543,6 +37833,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -37667,6 +37958,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -37791,6 +38083,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -37915,6 +38208,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -38039,6 +38333,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -38163,6 +38458,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -38287,6 +38583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -38411,6 +38708,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -38535,6 +38833,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -38659,6 +38958,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -38783,6 +39083,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -38907,6 +39208,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -39031,6 +39333,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -39155,6 +39458,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -39279,6 +39583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 19}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -39403,6 +39708,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -39660,6 +39966,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -39784,6 +40091,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -39908,6 +40216,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -40032,6 +40341,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -40156,6 +40466,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -40280,6 +40591,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -40404,6 +40716,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -40528,6 +40841,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -40652,6 +40966,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -40776,6 +41091,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -40900,6 +41216,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -41024,6 +41341,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -41148,6 +41466,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -41272,6 +41591,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -41396,6 +41716,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -41520,6 +41841,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -41644,6 +41966,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -41768,6 +42091,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -41892,6 +42216,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -42016,6 +42341,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -42140,6 +42466,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -42264,6 +42591,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -42388,6 +42716,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -42512,6 +42841,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -42636,6 +42966,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -42760,6 +43091,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -42884,6 +43216,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -43008,6 +43341,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -43132,6 +43466,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -43256,6 +43591,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -43380,6 +43716,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -43504,6 +43841,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -43628,6 +43966,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -43752,6 +44091,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -43876,6 +44216,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -44000,6 +44341,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -44124,6 +44466,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -44248,6 +44591,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -44372,6 +44716,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -44496,6 +44841,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -44620,6 +44966,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -44744,6 +45091,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -44868,6 +45216,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -44992,6 +45341,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -45188,6 +45538,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -45312,6 +45663,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -45436,6 +45788,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -45560,6 +45913,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -45684,6 +46038,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -45808,6 +46163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 15}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -45932,6 +46288,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -46056,6 +46413,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -46180,6 +46538,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -46304,6 +46663,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -46428,6 +46788,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 0, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -46624,6 +46985,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 18, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -46748,6 +47110,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -46844,8 +47207,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 810, y: 365}
-  m_SizeDelta: {x: -1660, y: -770}
+  m_AnchoredPosition: {x: 810, y: 290}
+  m_SizeDelta: {x: -1660, y: -620}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1882913146
 MonoBehaviour:
@@ -46977,6 +47340,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -47101,6 +47465,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 4, y: 17}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -47225,6 +47590,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -47349,6 +47715,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -47473,6 +47840,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -47597,6 +47965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -47721,6 +48090,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -47845,6 +48215,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -47969,6 +48340,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -48093,6 +48465,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -48217,6 +48590,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -48341,6 +48715,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -48465,6 +48840,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 14, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -48589,6 +48965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 10, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -48713,6 +49090,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 8}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -48837,6 +49215,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -48961,6 +49340,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -49085,6 +49465,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 12}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -49209,6 +49590,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 1, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -49333,6 +49715,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 5}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -49457,6 +49840,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -49581,6 +49965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 19, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -49705,6 +50090,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -49829,6 +50215,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 8, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -49953,6 +50340,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 17, y: 18}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -50077,6 +50465,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -50201,6 +50590,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 16, y: 7}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -50325,6 +50715,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 13, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -50449,6 +50840,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 11}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -50573,6 +50965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 5, y: 16}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -50697,6 +51090,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 2}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -50821,6 +51215,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 9}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -50945,6 +51340,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 2, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -51069,6 +51465,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 6, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -51193,6 +51590,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 12, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -51455,6 +51853,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 1}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -51579,6 +51978,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 9, y: 3}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -51703,6 +52103,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 10}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -51827,6 +52228,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 7, y: 6}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -51951,6 +52353,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 15, y: 4}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -52075,6 +52478,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 3, y: 14}
   connection: {x: 0, y: 0}
   isWalkable: 1
@@ -52332,6 +52736,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
   cords: {x: 11, y: 13}
   connection: {x: 0, y: 0}
   isWalkable: 1

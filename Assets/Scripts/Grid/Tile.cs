@@ -1,7 +1,15 @@
+using System;
 using UnityEngine;
 
 public class Tile : MonoBehaviour
 {
+    public enum TileType
+    {
+        Empty,
+        Path
+    }
+    
+    public TileType tileType = TileType.Empty;
     public Vector2Int cords;
     public Vector2Int connection;
     public bool isWalkable;
@@ -20,12 +28,12 @@ public class Tile : MonoBehaviour
 
     private void OnMouseDown()
     {
-        towerScript.TileClicked(this.gameObject);
+        towerScript.TileClicked(gameObject);
     }
 
     private void OnMouseEnter()
     {
-        towerScript.TileHovered(this.gameObject);
+        towerScript.TileHovered(gameObject);
     }
 
     private void OnMouseExit()

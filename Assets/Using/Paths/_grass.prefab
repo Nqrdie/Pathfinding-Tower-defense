@@ -50,7 +50,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: c1cd67ec403e5d542a4a18df78037a60, type: 3}
       propertyPath: m_Name
-      value: tile
+      value: _grass
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -83,9 +83,6 @@ MonoBehaviour:
   cords: {x: 0, y: 0}
   connection: {x: 0, y: 0}
   isWalkable: 0
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  placableTower: {fileID: 0}
-  label: {fileID: 0}
 --- !u!65 &-5207837229994632480
 BoxCollider:
   m_ObjectHideFlags: 0

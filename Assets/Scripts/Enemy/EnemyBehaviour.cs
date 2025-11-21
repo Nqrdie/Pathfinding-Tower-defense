@@ -74,9 +74,9 @@ public class EnemyBehaviour : MonoBehaviour
         foreach (GameObject tile in gridManager.grid.Values)
         {
             if (tile.GetComponent<Tile>().isWalkable)
-                tile.GetComponentInChildren<Renderer>().material.color = Color.grey;
+                tile.GetComponentInChildren<Renderer>().material.color = Color.yellow;
             else
-                tile.GetComponentInChildren<Renderer>().material.color = Color.black;
+                tile.GetComponentInChildren<Renderer>().material.color = Color.red;
         }
 
         startCords = startCordsInput;
@@ -112,7 +112,7 @@ public class EnemyBehaviour : MonoBehaviour
 
                 if (!neighbourTile.isWalkable)
                 {
-                    neighbourTile.GetComponentInChildren<Renderer>().material.color = Color.red;
+                    neighbourTile.GetComponentInChildren<Renderer>().material.color = Color.black;
                     searchedTiles.Add(neighbour);
                     continue;
                 }
@@ -143,10 +143,10 @@ public class EnemyBehaviour : MonoBehaviour
             new Vector2Int(0, -1),  // Down
             new Vector2Int(1, 0),   // Right
             new Vector2Int(-1, 0),  // Left
-            new Vector2Int(1, 1),   // Up-Right
-            new Vector2Int(-1, 1),  // Up-Left
-            new Vector2Int(1, -1),  // Down-Right
-            new Vector2Int(-1, -1)  // Down-Left
+           // new Vector2Int(1, 1),   // Up-Right
+           // new Vector2Int(-1, 1),  // Up-Left
+           // new Vector2Int(1, -1),  // Down-Right
+           // new Vector2Int(-1, -1)  // Down-Left
         };
 
         foreach (Vector2Int direction in directions)

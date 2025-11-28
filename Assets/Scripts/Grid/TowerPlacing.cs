@@ -89,7 +89,7 @@ public class TowerPlacing : MonoBehaviour
         if (isHoldingTower)
         {
             towerHover = Instantiate(towerPrefab[0], tile.transform.position + Vector3.up * 0.2f, Quaternion.identity);
-            selected = Instantiate(selectedPrefab, tile.transform.position + Vector3.up * 0.2f, Quaternion.identity);
+            selected = Instantiate(towerPrefab[0], tile.transform.position + Vector3.up * 0.2f, Quaternion.identity);
         }
         else
         {

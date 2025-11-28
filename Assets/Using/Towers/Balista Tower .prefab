@@ -77,14 +77,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 5752912783570725248}
     m_Modifications:
-    - target: {fileID: 5241900677788058942, guid: bb664237acd8a8e4f9b1d25e120b949c, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: b88e36e23c6cc574b940b0980561a4c0, type: 2}
-    - target: {fileID: 7525571167816648500, guid: bb664237acd8a8e4f9b1d25e120b949c, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: b88e36e23c6cc574b940b0980561a4c0, type: 2}
     - target: {fileID: 8318376569870329569, guid: bb664237acd8a8e4f9b1d25e120b949c, type: 3}
       propertyPath: m_Name
       value: weapon-ballista

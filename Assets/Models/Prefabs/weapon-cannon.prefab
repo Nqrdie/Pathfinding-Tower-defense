@@ -14,7 +14,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 91314513911b69449bce9fbde823478a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 91314513911b69449bce9fbde823478a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -48,6 +48,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 91314513911b69449bce9fbde823478a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b88e36e23c6cc574b940b0980561a4c0, type: 2}
+    - target: {fileID: -5169677972427226811, guid: 91314513911b69449bce9fbde823478a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b88e36e23c6cc574b940b0980561a4c0, type: 2}
     - target: {fileID: 919132149155446097, guid: 91314513911b69449bce9fbde823478a, type: 3}
       propertyPath: m_Name
       value: weapon-cannon
@@ -55,55 +63,5 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 91314513911b69449bce9fbde823478a, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 3569605629215865786}
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 91314513911b69449bce9fbde823478a, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: -2100799065794567185}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 91314513911b69449bce9fbde823478a, type: 3}
---- !u!1 &1356954890060004383 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 91314513911b69449bce9fbde823478a, type: 3}
-  m_PrefabInstance: {fileID: 2167839566349484366}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &3569605629215865786
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1356954890060004383}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  cords: {x: 0, y: 0}
-  connection: {x: 0, y: 0}
-  isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  wallMesh: {fileID: -6032365043310741612, guid: 368dcd7e442b08a49a7c521234d8cf58, type: 3}
-  label: {fileID: 0}
---- !u!65 &-2100799065794567185
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1356954890060004383}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.6, y: 0.4397777, z: 0.6}
-  m_Center: {x: 0, y: 0.21988885, z: 0}

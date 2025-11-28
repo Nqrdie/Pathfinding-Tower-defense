@@ -72,7 +72,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: detail-crystal
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8008475417185486049, guid: d8a60ea0fd0ada143a81ef628a6ee9d7, type: 3}
+    - {fileID: 4212500269772670370, guid: d8a60ea0fd0ada143a81ef628a6ee9d7, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []

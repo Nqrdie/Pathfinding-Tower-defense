@@ -6,7 +6,7 @@ public class Tile : MonoBehaviour
     public enum TileType
     {
         Empty,
-        Path
+        Path,
     }
     
     public TileType tileType = TileType.Empty;
@@ -33,6 +33,13 @@ public class Tile : MonoBehaviour
 
     private void OnMouseEnter()
     {
+        if (Input.GetMouseButton(0))
+        {
+            if (!isWalkable && tileType.Equals(TileType.Empty))
+            {
+                towerScript.TileClicked(gameObject);
+            }
+        }
         towerScript.TileHovered(gameObject);
     }
 

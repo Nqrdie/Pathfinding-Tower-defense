@@ -59,7 +59,8 @@ public class TowerBase : MonoBehaviour
         while (true)
         {
             GetTarget();
-            yield return new WaitForSeconds(targetRefreshRate);
+            //yield return new WaitForSeconds(targetRefreshRate);
+            yield return null;
         }
     }
 
@@ -74,7 +75,7 @@ public class TowerBase : MonoBehaviour
         {
             GameObject enemy = enemies[i];
             float enemyHealth = enemy.GetComponent<Health>().currentHealth;
-            if (enemy == null) continue;
+            if (enemy == null) return;
             float d = Vector3.Distance(pos, enemy.transform.position);
             if (d <= range && d < bestDist && enemyHealth > 0)
             {

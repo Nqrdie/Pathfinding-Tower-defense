@@ -58,34 +58,16 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 2cd536f4b357f5046a373154d0d1a654, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 8324542631247555451}
+      addedObject: {fileID: -5426105592665078645}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 2cd536f4b357f5046a373154d0d1a654, type: 3}
       insertIndex: -1
-      addedObject: {fileID: -5426105592665078645}
+      addedObject: {fileID: -1180443040315755702}
   m_SourcePrefab: {fileID: 100100000, guid: 2cd536f4b357f5046a373154d0d1a654, type: 3}
 --- !u!1 &3436874488286599333 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 2cd536f4b357f5046a373154d0d1a654, type: 3}
   m_PrefabInstance: {fileID: 2554476615801366004}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &8324542631247555451
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3436874488286599333}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d57f9f31c9b14224c8dea2e9f777e911, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  cords: {x: 0, y: 0}
-  connection: {x: 0, y: 0}
-  isWalkable: 1
-  selectedPrefab: {fileID: 4195395750737364378, guid: d1ed8d3ec80b5af4da7786c3ae483319, type: 3}
-  wallMesh: {fileID: -6032365043310741612, guid: 368dcd7e442b08a49a7c521234d8cf58, type: 3}
-  label: {fileID: 0}
 --- !u!65 &-5426105592665078645
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -107,3 +89,17 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.16, y: 0.16, z: 0.7776}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &-1180443040315755702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3436874488286599333}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcdc0623e9f837945be62d9401221738, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 12
+  lifeTime: 5

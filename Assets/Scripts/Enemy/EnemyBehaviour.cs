@@ -106,9 +106,9 @@ public class EnemyBehaviour : MonoBehaviour
         {
             GameObject go = kv.Value;
             Tile tile = go.GetComponent<Tile>();
-            Renderer rend = go.GetComponentInChildren<Renderer>();
-            if (tile != null && rend != null)
-                rend.material.color = tile.isWalkable ? Color.yellow : Color.red;
+           // Renderer rend = go.GetComponentInChildren<Renderer>();
+            //if (tile != null && rend != null)
+               // rend.material.color = tile.isWalkable ? Color.yellow : Color.red;
         }
 
         startCords = startCordsInput;
@@ -144,7 +144,7 @@ public class EnemyBehaviour : MonoBehaviour
                 }
 
                 Tile neighbourTile = neighbourGO.GetComponent<Tile>();
-                Renderer neighbourRend = neighbourGO.GetComponentInChildren<Renderer>();
+                //Renderer neighbourRend = neighbourGO.GetComponentInChildren<Renderer>();
 
                 if (neighbourTile == null)
                 {
@@ -154,8 +154,8 @@ public class EnemyBehaviour : MonoBehaviour
 
                 if (!neighbourTile.isWalkable)
                 {
-                    if (neighbourRend != null)
-                        neighbourRend.material.color = Color.black;
+                    //if (neighbourRend != null)
+                        //neighbourRend.material.color = Color.black;
                     visited.Add(neighbour);
                     continue;
                 }
@@ -164,14 +164,10 @@ public class EnemyBehaviour : MonoBehaviour
                 nextTile.Enqueue(neighbour);
                 visited.Add(neighbour);
 
-                if (neighbourRend != null)
-                    neighbourRend.material.color = Color.yellow;
+                //if (neighbourRend != null)
+                   // neighbourRend.material.color = Color.yellow;
             }
-
-            if (searchDelay > 0f)
-                yield return new WaitForSeconds(searchDelay);
-            else
-                yield return null;
+                
         }
 
         if (!pathSuccess)
@@ -179,6 +175,7 @@ public class EnemyBehaviour : MonoBehaviour
 
         stopwatch.Stop();
         Debug.Log($"Pathfinding completed in {stopwatch.ElapsedMilliseconds} ms");
+        yield return null;
     }
 
     private List<Vector2Int> GetNeighbours(Vector2Int tileCords)

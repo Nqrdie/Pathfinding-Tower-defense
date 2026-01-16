@@ -113,8 +113,8 @@ MonoBehaviour:
   damage: 10
   cost: 50
   level: 1
-  projectilePrefab: {fileID: 0}
-  firePoint: {fileID: 0}
+  projectilePrefab: {fileID: 3436874488286599333, guid: 87bc981b971d36c42baf5a4ff881ab2a, type: 3}
+  firePoint: {fileID: 3067817057607716193}
   enemyTag: Enemy
   targetRefreshRate: 0.25
 --- !u!4 &5752912783570725248 stripped

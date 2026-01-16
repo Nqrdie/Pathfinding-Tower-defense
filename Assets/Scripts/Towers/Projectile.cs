@@ -1,10 +1,13 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Projectile : MonoBehaviour
 {
     [Header("Projectile Stats")]
     public float speed = 12f;
     public float lifeTime = 5f;
+    public float retargetRadius = 5f;
+    public string enemyTag = "Enemy";
+
     private Transform target;
     private float damage;
 
@@ -17,10 +20,16 @@ public class Projectile : MonoBehaviour
 
     private void Update()
     {
-        if (target == null)
+        // Target lost or dead → try to retarget
+        if (target == null || IsTargetDead(target))
         {
-            transform.position += transform.forward * speed * Time.deltaTime;
-            return;
+            GetNewTarget();
+
+            if (target == null)
+            {
+                Destroy(gameObject);
+                return;
+            }
         }
 
         Vector3 dir = (target.position - transform.position);
@@ -40,18 +49,44 @@ public class Projectile : MonoBehaviour
     {
         if (target != null)
         {
-            EnemyBehaviour enemy = target.GetComponent<EnemyBehaviour>();
-            Health enemyHealth = target.GetComponent<Health>();
-            if (enemy != null)
-                enemyHealth.TakeDamage(damage);
-            else
-            {
-                Health health = target.GetComponent<Health>();
-                if (health != null) health.TakeDamage(damage);
-            }
+            Health health = target.GetComponent<Health>();
+            if (health != null)
+                health.TakeDamage(damage);
         }
 
         Destroy(gameObject);
+    }
+
+    private bool IsTargetDead(Transform t)
+    {
+        Health health = t.GetComponent<Health>();
+        return health == null || health.currentHealth <= 0;
+    }
+
+    private void GetNewTarget()
+    {
+        Collider[] hits = Physics.OverlapSphere(transform.position, retargetRadius);
+        float bestDist = float.MaxValue;
+        Transform bestTarget = null;
+
+        for (int i = 0; i < hits.Length; i++)
+        {
+            if (!hits[i].CompareTag(enemyTag))
+                continue;
+
+            Health h = hits[i].GetComponent<Health>();
+            if (h == null || h.currentHealth <= 0)
+                continue;
+
+            float d = Vector3.Distance(transform.position, hits[i].transform.position);
+            if (d < bestDist)
+            {
+                bestDist = d;
+                bestTarget = hits[i].transform;
+            }
+        }
+
+        target = bestTarget;
     }
 
     private void OnTriggerEnter(Collider other)

@@ -4992,7 +4992,7 @@ MonoBehaviour:
     enemyCountVariance: 1
   waves: []
   autoStart: 1
-  loopWaves: 0
+  loopWaves: 1
   aliveEnemies: []
 --- !u!4 &193543038
 Transform:

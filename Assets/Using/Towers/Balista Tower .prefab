@@ -62,8 +62,61 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 6170c78bc49bdab4ba0b462560073717, type: 3}
       insertIndex: -1
       addedObject: {fileID: 3067817057607716193}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 6170c78bc49bdab4ba0b462560073717, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2868612937778626437}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 6170c78bc49bdab4ba0b462560073717, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5254270145945526204}
   m_SourcePrefab: {fileID: 100100000, guid: 6170c78bc49bdab4ba0b462560073717, type: 3}
+--- !u!1 &4944287318693983034 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 6170c78bc49bdab4ba0b462560073717, type: 3}
+  m_PrefabInstance: {fileID: 5214265459904613995}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &2868612937778626437
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4944287318693983034}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 128
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 119
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0.5, z: 0}
+--- !u!114 &5254270145945526204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4944287318693983034}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6b71f8a1b8592b459627ad0280ca499, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  range: 5
+  fireRate: 1
+  damage: 10
+  cost: 50
+  level: 1
+  projectilePrefab: {fileID: 0}
+  firePoint: {fileID: 0}
+  enemyTag: Enemy
+  targetRefreshRate: 0.25
 --- !u!4 &5752912783570725248 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 6170c78bc49bdab4ba0b462560073717, type: 3}

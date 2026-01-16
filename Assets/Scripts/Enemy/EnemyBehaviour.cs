@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Diagnostics;
 using UnityEngine;
+using Debug = UnityEngine.Debug;
 
 public class EnemyBehaviour : MonoBehaviour
 {
@@ -11,12 +13,13 @@ public class EnemyBehaviour : MonoBehaviour
         Dead
     }
 
+    [Header("Speed settings")]
     private Animator animator;
     private States currentState;
     [SerializeField] private float moveSpeed;
     [SerializeField] private float rotationSpeed;
     private Rigidbody rb;
-
+    
     public List<Vector2Int> tileToSearch = new List<Vector2Int>();
     public List<Vector2Int> searchedTiles = new List<Vector2Int>();
     public List<Vector2Int> path = new List<Vector2Int>();
@@ -26,18 +29,33 @@ public class EnemyBehaviour : MonoBehaviour
     private GridManager gridManager;
     public Vector2Int startCordsInput;
     public Vector2Int targetCordsInput;
+    private Health healthComp;
     public float searchDelay;
+    
+    private float baseMoveSpeed;
+    private float healthMultiplier = 1f;
+    private float speedMultiplier = 1f;
+
+    private Coroutine pathfindingCoroutine;
 
     private void Awake()
     {
         gridManager = FindFirstObjectByType<GridManager>();
+        healthComp = GetComponent<Health>();
+        baseMoveSpeed = moveSpeed;
     }
 
     void Start()
     {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody>();
-        //StartCoroutine(FindPath());
+        StartCoroutine(DelayedInit());
+    }
+
+    private IEnumerator DelayedInit()
+    {
+        yield return null;
+        pathfindingCoroutine = StartCoroutine(FindPath());
     }
 
     void Update()
@@ -45,90 +63,119 @@ public class EnemyBehaviour : MonoBehaviour
         switch (currentState)
         {
             case States.Idle:
-                animator.SetInteger("State", 0);
+                if (animator) animator.SetInteger("State", 0);
                 break;
             case States.Walking:
-                animator.SetInteger("State", 1);
+                if (animator) animator.SetInteger("State", 1);
                 break;
             case States.Attacking:
-                animator.SetInteger("State", 2);
+                if (animator) animator.SetInteger("State", 2);
                 break;
             case States.Dead:
-                animator.SetInteger("State", 3);
+                if (animator) animator.SetInteger("State", 3);
                 break;
             default:
                 currentState = States.Idle;
                 break;
         }
     }
-
-    #region Pathfinding
-    public void StartPathfinding()
+    
+    public void ApplyMultipliers(Vector2 multipliers)
     {
-        StartCoroutine(FindPath());
+        healthMultiplier = multipliers.x;
+        speedMultiplier = multipliers.y;
+
+        healthComp.currentHealth = healthComp.maxHealth * healthMultiplier;
+        moveSpeed = baseMoveSpeed * speedMultiplier;
     }
 
+    public void StartPathfinding()
+    {
+        if (pathfindingCoroutine != null)
+            StopCoroutine(pathfindingCoroutine);
+        pathfindingCoroutine = StartCoroutine(FindPath());
+    }
+
+    #region Pathfinding
     public IEnumerator FindPath()
     {
-        var stopwatch = System.Diagnostics.Stopwatch.StartNew();
-        foreach (GameObject tile in gridManager.grid.Values)
+        Stopwatch stopwatch = Stopwatch.StartNew();
+        Dictionary<Vector2Int, GameObject> grid = gridManager.grid;
+        
+        foreach (var kv in grid)
         {
-            if (tile.GetComponent<Tile>().isWalkable)
-                tile.GetComponentInChildren<Renderer>().material.color = Color.yellow;
-            else
-                tile.GetComponentInChildren<Renderer>().material.color = Color.red;
+            GameObject go = kv.Value;
+            Tile tile = go.GetComponent<Tile>();
+            Renderer rend = go.GetComponentInChildren<Renderer>();
+            if (tile != null && rend != null)
+                rend.material.color = tile.isWalkable ? Color.yellow : Color.red;
         }
 
         startCords = startCordsInput;
         targetCords = targetCordsInput;
         pathSuccess = false;
 
-        tileToSearch.Clear();
-        searchedTiles.Clear();
-        path.Clear();
+        Queue<Vector2Int> nextTile = new Queue<Vector2Int>();
+        HashSet<Vector2Int> visited = new HashSet<Vector2Int>();
 
-        tileToSearch.Add(startCords);
+        nextTile.Enqueue(startCords);
+        visited.Add(startCords);
 
-        while (tileToSearch.Count > 0 && !pathSuccess)
+        while (nextTile.Count > 0 && !pathSuccess)
         {
-            Vector2Int currentTile = tileToSearch[0];
-            tileToSearch.RemoveAt(0);
-            searchedTiles.Add(currentTile);
+            Vector2Int current = nextTile.Dequeue();
 
-            if (currentTile == targetCords)
+            if (current == targetCords)
             {
                 pathSuccess = true;
                 RetracePath(startCords, targetCords);
                 break;
             }
 
-
-            foreach (Vector2Int neighbour in GetNeighbours(currentTile))
+            foreach (Vector2Int neighbour in GetNeighbours(current))
             {
-                if (searchedTiles.Contains(neighbour) || tileToSearch.Contains(neighbour))
+                if (visited.Contains(neighbour))
                     continue;
 
-                Tile neighbourTile = gridManager.grid[neighbour].GetComponent<Tile>();
-
-                if (!neighbourTile.isWalkable)
+                if (!grid.TryGetValue(neighbour, out GameObject neighbourGO))
                 {
-                    neighbourTile.GetComponentInChildren<Renderer>().material.color = Color.black;
-                    searchedTiles.Add(neighbour);
+                    visited.Add(neighbour);
                     continue;
                 }
 
-                neighbourTile.connection = currentTile;
-                tileToSearch.Add(neighbour);
+                Tile neighbourTile = neighbourGO.GetComponent<Tile>();
+                Renderer neighbourRend = neighbourGO.GetComponentInChildren<Renderer>();
 
-                gridManager.grid[neighbour].GetComponentInChildren<Renderer>().material.color = Color.yellow;
-                yield return new WaitForSeconds(searchDelay);
+                if (neighbourTile == null)
+                {
+                    visited.Add(neighbour);
+                    continue;
+                }
+
+                if (!neighbourTile.isWalkable)
+                {
+                    if (neighbourRend != null)
+                        neighbourRend.material.color = Color.black;
+                    visited.Add(neighbour);
+                    continue;
+                }
+
+                neighbourTile.connection = current;
+                nextTile.Enqueue(neighbour);
+                visited.Add(neighbour);
+
+                if (neighbourRend != null)
+                    neighbourRend.material.color = Color.yellow;
             }
+
+            if (searchDelay > 0f)
+                yield return new WaitForSeconds(searchDelay);
+            else
+                yield return null;
         }
 
         if (!pathSuccess)
-        {
             Debug.LogWarning("No path found!");
-        }
 
         stopwatch.Stop();
         Debug.Log($"Pathfinding completed in {stopwatch.ElapsedMilliseconds} ms");
@@ -139,14 +186,10 @@ public class EnemyBehaviour : MonoBehaviour
         List<Vector2Int> neighbours = new List<Vector2Int>();
 
         Vector2Int[] directions = {
-            new Vector2Int(0, 1),   // Up
-            new Vector2Int(0, -1),  // Down
-            new Vector2Int(1, 0),   // Right
-            new Vector2Int(-1, 0),  // Left
-           // new Vector2Int(1, 1),   // Up-Right
-           // new Vector2Int(-1, 1),  // Up-Left
-           // new Vector2Int(1, -1),  // Down-Right
-           // new Vector2Int(-1, -1)  // Down-Left
+            new Vector2Int(0, 1),
+            new Vector2Int(0, -1),
+            new Vector2Int(1, 0),
+            new Vector2Int(-1, 0),
         };
 
         foreach (Vector2Int direction in directions)
@@ -155,18 +198,6 @@ public class EnemyBehaviour : MonoBehaviour
 
             if (!gridManager.grid.ContainsKey(neighbourCords))
                 continue;
-
-            if (direction.x != 0 && direction.y != 0)
-            {
-                Vector2Int side1 = new Vector2Int(tileCords.x + direction.x, tileCords.y);
-                Vector2Int side2 = new Vector2Int(tileCords.x, tileCords.y + direction.y);
-
-                bool side1Blocked = !gridManager.grid.ContainsKey(side1) || !gridManager.grid[side1].GetComponent<Tile>().isWalkable;
-                bool side2Blocked = !gridManager.grid.ContainsKey(side2) || !gridManager.grid[side2].GetComponent<Tile>().isWalkable;
-
-                if (side1Blocked && side2Blocked)
-                    continue;
-            }
 
             neighbours.Add(neighbourCords);
         }
@@ -198,10 +229,13 @@ public class EnemyBehaviour : MonoBehaviour
     private IEnumerator MoveAlongPath()
     {
         Vector3 endPos = Vector3.zero;
-        foreach (var tilePos in path)
+        foreach (Vector2Int tilePos in path)
         {
+            if (currentState == States.Dead) yield break;
+
             GameObject tileObj = gridManager.grid[tilePos];
-            tileObj.GetComponentInChildren<Renderer>().material.color = Color.green;
+            Renderer rend = tileObj.GetComponentInChildren<Renderer>();
+            if (rend != null) rend.material.color = Color.green;
 
             Vector3 target = tileObj.transform.position;
             while (Vector3.Distance(rb.position, target) > 0.5f)
@@ -220,10 +254,12 @@ public class EnemyBehaviour : MonoBehaviour
 
                 yield return new WaitForFixedUpdate();
             }
-           endPos = target;
+            endPos = target;
         }
         rb.MovePosition(endPos);
-        currentState = States.Attacking; 
+        
+        currentState = States.Attacking;
+        Destroy(gameObject);
     }
     #endregion
 }
